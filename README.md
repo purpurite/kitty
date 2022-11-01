@@ -17,9 +17,12 @@
 
 ## Installation
 
-### Guided Installation
+### Pre-built Installation
 
   1. Download and install kitty.
-      * Follow kitty's installation instructions
-      * You must have kitty v2.
-  2. 
+      * Follow kitty's [installation instructions
+      * this theme requires kitty version 0.23.0 or later
+  2. Install pupurite from kitty.
+      * Run `kitty +kitten themes` inside kitty
+      * Find `purpurite` in the themes kitten
+  3.
